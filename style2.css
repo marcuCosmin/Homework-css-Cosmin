@@ -1,0 +1,48 @@
+body {
+    white-space: nowrap;
+    overflow: scroll;
+    line-height: 1.5;
+    padding-left: 15cm;
+}
+
+span {
+    font-weight: bold;
+    font-size: 0.36cm;
+    line-height: 2cm;
+    padding-bottom: 0.3cm;
+}
+
+.firstSpan {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+.secondSpan {
+    word-spacing: 0.3cm;  
+    padding-left: 6cm;
+}
+
+#firstHeading {
+    font-size: 0.6cm;   
+    padding-right: 7.1cm;
+    line-height: 0;
+}
+
+#secondHeading {
+    font-size: 0.36cm;
+    line-height: 3;
+    font-style: italic;
+    color: gray;
+    font-weight: normal;  
+}
+
+p {
+    white-space: normal;
+    padding-right: 22.2cm;
+    font-size: 0.4cm;
+}
+
+.firstDiv {
+    white-space: normal;
+    padding-right: 22.2cm;
+}
